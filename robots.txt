@@ -1,0 +1,22 @@
+# Lavandaluz — robots.txt
+# SUBSTITUIR o domínio quando o site for publicado.
+# No WordPress, o Rank Math/Yoast gera isso automaticamente — este arquivo é a referência.
+
+User-agent: *
+Allow: /
+
+# Crawlers de IA (GEO/AIO): permitidos de propósito —
+# queremos que ChatGPT, Perplexity e Gemini citem o site.
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://lavandaluz.com.br/sitemap.xml

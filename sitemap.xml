@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lavandaluz — sitemap de referência. SUBSTITUIR domínio.
+     No WordPress, o Rank Math/Yoast gera e atualiza automaticamente. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://lavandaluz.com.br/</loc>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://lavandaluz.com.br/quem-sou.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://lavandaluz.com.br/terapias.html</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://lavandaluz.com.br/blog.html</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://lavandaluz.com.br/contato.html</loc>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+</urlset>
